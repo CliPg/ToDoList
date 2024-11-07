@@ -9,7 +9,7 @@ An easy ToDoList app based on python
 
 ## Show
 
-![](img\example1.png)
+![](.\img\example1.png)
 
 
 
