@@ -85,8 +85,8 @@ Modify the start_todo.bat startup script
 
 ```
 @echo off
-cd D:\your_profile  //MyToDo.py的文件位置
-pythonw "D:\your_profile\MyToDo.py"
+cd D:\your_file  //MyToDo.py的文件位置  MyToDo.py file location
+pythonw "D:\your_file\MyToDo.py"
 ```
 
 
