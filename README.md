@@ -1,10 +1,9 @@
 # ToDoList
 
 ## Intro
-基于python的构建的简易ToDoList
+基于python的构建的简易ToDoList桌面应用，便于提醒和管理你的任务。
 
-An easy ToDoList app based on python
-
+A simple ToDoList desktop application built based on python, for reminding and managing your tasks.
 
 
 ## Show
